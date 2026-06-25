@@ -6,7 +6,7 @@
 
 🧠 About Me
 
-🎓 2nd Year BCA Student
+🎓  BCA Student
 💻 Learning C → C++ ,python → Data Structures & Algorithms
 🌐 Exploring Web Development
 🎯 Goal: Crack placements & become a strong problem solver

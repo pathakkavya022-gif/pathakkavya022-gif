@@ -8,7 +8,7 @@
 
 🎓  BCA Student
 💻 Learning C → C++ ,python → Data Structures & Algorithms
-🌐 Exploring Web Development
+🌐 Exploring Web Development,Cloud Computing
 🎯 Goal: Crack placements & become a strong problem solver
 
 ---
